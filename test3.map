@@ -1,0 +1,16 @@
+$Test Map 2
+$Created March 5, 2008 by Michael
+x 10
+y 5
+Tileset 1
+% g g g b l l f f m m 
+% g g b b b l l f f f
+% g m b b l l l l l f
+% g g g g g l l b f f 
+% m m m g g g l b b b
+boulder 2 2
+boulder 4 1
+boulder 9 4
+chicken 0 0
+chicken 4 4
+end

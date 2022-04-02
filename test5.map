@@ -1,0 +1,34 @@
+$Test Map 2
+$Created March 5, 2008 by Michael
+x 10
+y 10
+Tileset 1
+% g g g b l l f f m m 
+% g g b b b l l f f f
+% g m b b l l l l l f
+% g g g g g l l b f f 
+% m m m g g g l b b b
+% g g g b l l f f m m 
+% g g b b b l l f f f
+% g m b b l l l l l f
+% g g g g g l l b f f 
+% m m m g g g l b b b
+boulder 1 4
+boulder 7 2
+boulder 4 0
+boulder 3 3
+boulder 8 3
+boulder 4 3
+boulder 9 3
+boulder 5 2
+boulder 6 3
+ant 1 1 0
+ant 2.3 4 0
+ant 7.2 3.2 0
+ant 8 1 0
+ant 2.5 5 0
+ant 8.5 2 0
+ant 5 5 0
+queen 8 5 0
+bullseye 7 7 0
+end

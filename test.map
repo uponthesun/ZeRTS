@@ -1,0 +1,12 @@
+$Test Map
+$Created March 5, 2008 by Michael
+x 5
+y 5
+Tileset 0
+% d g g g g 
+% d g m m g
+% d g m m g
+% d g g g g
+% d d d d d 
+boulder 3 3
+end

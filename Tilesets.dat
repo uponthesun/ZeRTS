@@ -1,0 +1,10 @@
+set chickens
+g "Grass.jpg"
+m "Mud.jpg"
+d "Dirt.jpg"
+set lostGarden
+g "Grass2.jpg"
+l "Leaves.jpg"
+b "Bits.jpg"
+f "Funky.jpg"
+m "Marble.jpg

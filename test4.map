@@ -1,0 +1,42 @@
+$Test Map 2
+$Created March 5, 2008 by Michael
+x 20
+y 20
+Tileset 0
+% d g g g g d d m m d d g g g g d d m m d
+% d g m m g g d d m m d g m m g g d d m m
+% d g m m g g d m m d d g m m g g d m m d
+% d g g g g d m m d d d g g g g d m m d d
+% d d d d d m m d d g d d d d d m m d d g
+% d g g g g d d m m d d g g g g d d m m d
+% d g m m g g d d m m d g m m g g d d m m
+% d g m m g g d m m d d g m m g g d m m d
+% d g g g g d m m d d d g g g g d m m d d
+% d d d d d m m d d g d d d d d m m d d g
+% d g g g g d d m m d d g g g g d d m m d
+% d g m m g g d d m m d g m m g g d d m m
+% d g m m g g d m m d d g m m g g d m m d
+% d g g g g d m m d d d g g g g d m m d d
+% d d d d d m m d d g d d d d d m m d d g
+% d g g g g d d m m d d g g g g d d m m d
+% d g m m g g d d m m d g m m g g d d m m
+% d g m m g g d m m d d g m m g g d m m d
+% d g g g g d m m d d d g g g g d m m d d
+% d d d d d m m d d g d d d d d m m d d g
+$boulder 1 12
+$boulder 7 18
+$boulder 4 16
+boulder 3 3
+$boulder 18 3
+$boulder 11 18
+$boulder 19 18
+$boulder 15 7
+$boulder 6 18
+chicken 1 1
+$chicken 2 9
+$chicken 7 18
+$chicken 8 15
+$chicken 12 5
+$chicken 18 2
+$chicken 5 5
+end
